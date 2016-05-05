@@ -1,0 +1,6 @@
+<mah:DropDownButton 
+                    Name="MyButton"
+                    Content="Set Person"
+                    DisplayMemberPath="Name"
+                    ItemsSource="{Binding People}">
+</mah:DropDownButton>
